@@ -1,0 +1,37 @@
+h2 {
+    font-family: 'Notable', sans-serif;
+    color: yellow;
+}
+
+#image {
+    background-color: skyblue;
+    border: 3px lightgreen solid;
+    height: 150px;
+}
+
+body {
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 5px lightgreen solid;
+}
+
+.facts {
+    background-color: white;
+    border: 3px lightgreen solid;
+    width: 350px;
+    margin: auto;
+}
+
+.about {
+    background-color: white;
+    border: 3px lightgreen solid;
+    width: 450px;
+    margin: auto;
+}
+
+.websites {
+    background-color: white;
+    border: 3px lightgreen solid;
+    width: 550px;
+    margin: auto;
+}
